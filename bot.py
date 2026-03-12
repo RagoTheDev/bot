@@ -1,8 +1,8 @@
-import telebot
+AAGXGXJcdN1nfDOtQ7EaV6v6wu7wGAgPlj8'nfDOtQ7EaV6v6wu7wGAgPlj8' telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Define your bot token
-TOKEN = '6575581312:AAGXGXJcdN1nfDOtQ7EaV6v6wu7wGAgPlj8'
+TOKEN = ''
 
 # Create a Bot object with your token
 bot = telebot.TeleBot(TOKEN)
